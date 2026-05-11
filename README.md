@@ -1,5 +1,7 @@
 # GenZ Productivity Agent
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 Multi-agent AI productivity system for Gen-Z workflows.
 
 ## Quick Start
